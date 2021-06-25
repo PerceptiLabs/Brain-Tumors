@@ -13,7 +13,7 @@ The data can be used to build and train an ML model that can detect brain tumors
 This repo has the following structure:
 * **/data**: contains the images of brain scans. The **yes** subdirectory contains brain scan images with tumors, and the **no** subdirectory contains brain scan images without tumors. The following is an example image from the respective folders:
 
-![](/data/yes/Y1.jpg)  |  ![](/data/no/1 no.jpeg)
+![](/data/yes/Y1.jpg)  |  ![](/data/no/N20.JPG)
 
 * **/data/data.csv**: CSV file that maps the images to "yes" and "no" labels for use in loading the data into PerceptiLabs. "yes" means the image contains a brain tumor, and "no" means the image doesn't contain a brain tumor.
 
