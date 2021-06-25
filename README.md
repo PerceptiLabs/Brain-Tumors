@@ -11,7 +11,7 @@ The data can be used to build and train an ML model that can detect brain tumors
 
 # Structure
 This repo has the following structure:
-* **/data**: contains the images of brain scans. The **yes** subdirectory contains brain scan images with tumors, and the **no** subdirectory contains brain scan images without tumors. The following are example images from the respective folders:
+* **/data**: contains the images of brain scans. The **yes** subdirectory contains brain scan images with tumors, and the **no** subdirectory contains brain scan images without tumors. The following are example images from the respective subdirectories:
 
 ![](/data/yes/Y1.jpg)  |  ![](/data/no/N20.JPG)
 
